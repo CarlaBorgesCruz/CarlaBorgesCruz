@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, meu nome é Carla Borges,sou estudante e tenho 18 anos!
 
-<!--
-**CarlaBorgesCruz/CarlaBorgesCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻| Atualmente estou cursando o 3°ano do Técnico em Informática.
 
-Here are some ideas to get you started:
+📚| No momento estou aprendendo muitas coisas, me aperfeiçoando cada vez mais nas aplicações de programação, como C, JavaScript, HTML, CSS, Desenvolvimento Web, na parte de Redes e afins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡| Curiosidade: Possuo grande interesse em seguir na parte de Desenvolvimento Front-end.
+- Gosto muito da área relacionada à manipulações de Design no geral.
+
+📞| Para entrar em contato comigo: 
+- Via E-mail: carla.borges@aluno.ifsp.edu.br
+- LinkedIn: 
+- Instagram: 
