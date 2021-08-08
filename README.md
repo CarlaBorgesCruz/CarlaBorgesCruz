@@ -1,4 +1,4 @@
-Hi, meu nome é Carla Borges,sou estudante de TI, moro em São Paulo e e tenho 18 anos.
+Hi, meu nome é Carla Borges,sou estudante de TI, moro em São Paulo e tenho 18 anos.
 
 👩‍💻| Atualmente estou cursando o 3°ano do Técnico em Informática.
 
