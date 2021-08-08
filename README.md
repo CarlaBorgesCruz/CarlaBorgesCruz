@@ -28,3 +28,6 @@ Hi, me chamo Carla Borges Cruz, sou estudante de TI, moro em São Paulo e tenho 
 <a href="https://instagram.com/carlinha__c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "carlaborges.cruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlaborgescruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+![Snake animation](https://github.com/CarlaBorgesCruz/CarlaBorgesCruz/blob/output/github-contribution-grid-snake.svg)
+ </div>
